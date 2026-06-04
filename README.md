@@ -10,7 +10,7 @@ Washington, DC Metro | marissa.reed112@gmail.com
 | # | Lab | Tools Used | Status |
 |---|-----|-----------|--------|
 | 01 | Nessus Vulnerability Scan — SMB Signing | Nessus Essentials, Windows | ✅ Complete |
-| 02 | Wireshark PCAP Analysis | Wireshark | 🔄 Coming Soon |
+| 02 | Wireshark PCAP Analysis | Wireshark |  ✅ Complete |
 | 03 | Windows Event Log Analysis | Event Viewer | 🔄 Coming Soon |
 | 04 | LetsDefend Incident Response | LetsDefend.io | 🔄 Coming Soon |
 
